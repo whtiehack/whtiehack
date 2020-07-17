@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+https://github.com/athul/waka-readme#new-to-wakatime
+
+
 -->
 
 - 🔭 I’m currently working on [pinus](https://github.com/node-pinus/pinus)
