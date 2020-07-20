@@ -22,7 +22,6 @@ https://github.com/athul/waka-readme#new-to-wakatime
 
 
 - 🔭 I’m currently working on [pinus](https://github.com/node-pinus/pinus)
-- 🌱 I’m currently learning golang/csharp
 - 📫 How to reach me: [whitehack@163.com](mailto:whitehack@163.com)
 - 💬 Ask me about Backend/nodejs/golang
 
