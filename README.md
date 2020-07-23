@@ -44,11 +44,11 @@ https://github.com/athul/waka-readme#new-to-wakatime
 ```text
 Week: 15 July, 2020 - 22 July, 2020
 
-TypeScript   12 hrs          ████████████████░░░░░░░░░   64.94 % 
-Text         1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-JavaScript   1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Go           1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-C#           43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+TypeScript   14 hrs 39 mins  ███████████████░░░░░░░░░░   62.68 % 
+Go           2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Text         2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+JavaScript   1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+C#           43 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 <!--END_SECTION:waka-->
 
