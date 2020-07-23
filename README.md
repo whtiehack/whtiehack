@@ -41,6 +41,15 @@ https://github.com/athul/waka-readme#new-to-wakatime
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+Week: 15 July, 2020 - 22 July, 2020
+
+TypeScript   12 hrs          ████████████████░░░░░░░░░   64.94 % 
+Text         1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+JavaScript   1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Go           1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+C#           43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+```
 <!--END_SECTION:waka-->
 
 ![Smallwhite's github stats](https://github-readme-stats.vercel.app/api?username=whtiehack&show_icons=true)
