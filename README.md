@@ -42,7 +42,7 @@ https://github.com/athul/waka-readme#new-to-wakatime
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2020 - 28 August, 2020
+Week: 22 August, 2020 - 29 August, 2020
 
 TypeScript   30 hrs 6 mins   █████████████████████▒░░░   85.49 % 
 Text         3 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
