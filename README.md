@@ -42,7 +42,10 @@ https://github.com/athul/waka-readme#new-to-wakatime
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 September, 2020 - 07 October, 2020
+
+TypeScript   11 mins         █████████████████▒░░░░░░░   69.76 % 
+C#           4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.24 % 
 ```
 <!--END_SECTION:waka-->
 
