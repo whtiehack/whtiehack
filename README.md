@@ -42,7 +42,7 @@ https://github.com/athul/waka-readme#new-to-wakatime
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2021 - 08 February, 2021
+Week: 02 February, 2021 - 09 February, 2021
 
 TypeScript   38 hrs          ███████████████████████▒░   93.58 % 
 Text         1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
