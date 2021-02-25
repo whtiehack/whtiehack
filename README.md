@@ -52,5 +52,5 @@ Bash         25 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![Smallwhite's github stats](https://github-readme-stats.vercel.app/api?username=whtiehack&show_icons=true)
+![Smallwhite's github stats](https://github-readme-stats.vercel.app/api?username=whtiehack&show_icons=true&theme=dark)
 
