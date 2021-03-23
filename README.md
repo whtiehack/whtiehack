@@ -1,3 +1,6 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=whtiehack&show_icons=true&theme=github" />
+
+
 ### Hi there 👋
 
 <!--
@@ -51,6 +54,4 @@ Text         53 mins         ▓░░░░░░░░░░░░░░░░
 Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 <!--END_SECTION:waka-->
-
-![Smallwhite's github stats](https://github-readme-stats.vercel.app/api?username=whtiehack&show_icons=true&theme=dark)
 
