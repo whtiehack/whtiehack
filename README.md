@@ -45,7 +45,7 @@ https://github.com/athul/waka-readme#new-to-wakatime
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
+Week: 01 October, 2021 - 07 October, 2021
 
 Text         14 mins         ███████████████░░░░░░░░░░   60.40 % 
 TypeScript   7 mins          ████████▒░░░░░░░░░░░░░░░░   32.92 % 
