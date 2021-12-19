@@ -45,7 +45,7 @@ https://github.com/athul/waka-readme#new-to-wakatime
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
+Week: 12 December, 2021 - 18 December, 2021
 
 Go           13 hrs 19 mins  ████████████████▓░░░░░░░░   66.27 % 
 TypeScript   2 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 % 
