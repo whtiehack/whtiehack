@@ -45,7 +45,7 @@ https://github.com/athul/waka-readme#new-to-wakatime
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
 TypeScript   5 hrs 16 mins   ███████████████████████▒░   93.13 % 
 Text         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
