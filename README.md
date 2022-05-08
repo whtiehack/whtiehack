@@ -46,7 +46,7 @@ https://github.com/athul/waka-readme#new-to-wakatime
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
 Go           3 hrs 30 mins   ███████████░░░░░░░░░░░░░░   44.65 %
 TypeScript   3 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.89 %
