@@ -46,14 +46,14 @@ https://github.com/athul/waka-readme#new-to-wakatime
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 June 2022 - To: 24 June 2022
+From: 18 June 2022 - To: 25 June 2022
 
-TypeScript        11 hrs 24 mins  ██████████████████▒░░░░░░   73.67 %
-Go                1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Text              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Makefile          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Protocol Buffer   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Bash              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+TypeScript        11 hrs 24 mins  ███████████████████▒░░░░░   77.33 %
+Go                57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Text              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Makefile          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Protocol Buffer   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Bash              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
