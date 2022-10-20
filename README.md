@@ -46,14 +46,14 @@ https://github.com/athul/waka-readme#new-to-wakatime
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2022 - To: 19 October 2022
+From: 13 October 2022 - To: 20 October 2022
 
-TypeScript     9 hrs 44 mins   ███████████████░░░░░░░░░░   59.62 %
-Go             4 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   27.76 %
-Text           1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-SQL            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-JavaScript     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-CSV/TSV        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+TypeScript     9 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.78 %
+Go             5 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   31.94 %
+Text           1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+SQL            18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JavaScript     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Bash           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
