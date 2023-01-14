@@ -46,7 +46,7 @@ https://github.com/athul/waka-readme#new-to-wakatime
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 13 January 2023
+From: 07 January 2023 - To: 14 January 2023
 
 Go                16 hrs 4 mins   ███████████████████░░░░░░   75.62 %
 TypeScript        3 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
