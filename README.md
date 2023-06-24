@@ -43,7 +43,7 @@ https://github.com/athul/waka-readme#new-to-wakatime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2023 - To: 23 June 2023
+From: 17 June 2023 - To: 24 June 2023
 
 TypeScript        9 hrs 3 mins    █████████████████████░░░░   83.49 %
 Text              1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
