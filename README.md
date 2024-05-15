@@ -43,13 +43,13 @@ https://github.com/athul/waka-readme#new-to-wakatime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2024 - To: 14 May 2024
+From: 08 May 2024 - To: 15 May 2024
 
-Go             20 hrs 47 mins  ██████████████▓░░░░░░░░░░   58.11 %
-Text           6 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
-TypeScript     4 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-Bash           1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Other          38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Go             22 hrs 25 mins  ███████████████▓░░░░░░░░░   62.91 %
+Text           5 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+TypeScript     4 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+Bash           57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Shell Script   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
