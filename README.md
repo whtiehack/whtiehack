@@ -43,12 +43,11 @@ https://github.com/athul/waka-readme#new-to-wakatime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-Go      52 mins         █████████████████████▓░░░   86.10 %
-Other   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-Lua     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-TeX     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Other   6 mins          ██████████████████░░░░░░░   71.86 %
+Lua     1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
+TeX     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
 ```
 
 <!--END_SECTION:waka-->
