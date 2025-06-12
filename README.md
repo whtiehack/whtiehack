@@ -43,13 +43,13 @@ https://github.com/athul/waka-readme#new-to-wakatime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2025 - To: 11 June 2025
+From: 05 June 2025 - To: 12 June 2025
 
-Go                8 hrs 26 mins   ███████████████▓░░░░░░░░░   62.71 %
-Text              2 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.53 %
-TypeScript        2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-JavaScript        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-HTTP Request      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go                6 hrs 18 mins   ████████████▓░░░░░░░░░░░░   51.31 %
+TypeScript        3 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
+Text              2 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+JavaScript        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+HTTP Request      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
