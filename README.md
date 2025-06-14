@@ -43,7 +43,7 @@ https://github.com/athul/waka-readme#new-to-wakatime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
 Go                6 hrs 4 mins    ████████████▓░░░░░░░░░░░░   50.00 %
 Text              3 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
