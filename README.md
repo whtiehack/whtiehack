@@ -43,13 +43,13 @@ https://github.com/athul/waka-readme#new-to-wakatime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
-TypeScript      7 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.14 %
-C#              2 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-Text            1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Markdown        52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-JSON            43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+TypeScript      6 hrs 53 mins   ████████████▒░░░░░░░░░░░░   48.87 %
+C#              3 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
+Markdown        1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Text            1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+JSON            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
