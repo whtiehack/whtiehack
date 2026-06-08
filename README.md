@@ -43,13 +43,13 @@ https://github.com/athul/waka-readme#new-to-wakatime
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2026 - To: 07 June 2026
+From: 01 June 2026 - To: 08 June 2026
 
-Markdown          17 hrs 54 mins        █████████▓░░░░░░░░░░░░░░░   38.85 %
-Python            14 hrs 39 mins        ████████░░░░░░░░░░░░░░░░░   31.80 %
-C++               3 hrs 3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-TypeScript        2 hrs 37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-JSON              1 hr 50 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Markdown          17 hrs 41 mins        █████████▓░░░░░░░░░░░░░░░   38.69 %
+Python            12 hrs 39 mins        ███████░░░░░░░░░░░░░░░░░░   27.69 %
+TypeScript        3 hrs 54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+C++               3 hrs 3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+JSON              2 hrs 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
